@@ -20,7 +20,7 @@ The name comes from the fact that a blockchain stores data in blocks, individual
 
 Each new piece of information is also assigned a timestamp, which makes it easy for users to find out exactly when it was added to the chain.  The transparency and immutability of the blockchain makes it a very reliable and trustworthy business resource both for individuals and companies.
 
-![Figure 1: Blockchain transaction flow](images/Pasted image 20230105171112.png)
+![Figure 1: Blockchain transaction flow](images/image_20230105171112.png)
 *Figure 1: Blockchain transaction flow*
 
 In the context of blockchain, a decentralized system is one that is controlled in equal measure by each of its constituent parts.  No single individual, corporation or other entity can exert a disproportionate degree of control over how they are constructed and run. In contrast, a centralized system is controlled and organized according to a rigid hierarchical structure.  In such a system, power and decision-making authority is concentrated in the hands of a relatively small number of individuals at the top of the hierarchy. 
