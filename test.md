@@ -46,7 +46,7 @@ Blockchain is not a perfect fit for every application – potential use cases sh
 
 Blockchain also has several structural considerations. It is not a good fit for storing large amounts of non-transactional data. It can also have issues with scalability as the nodes required can be expensive and computationally heavy. The verification process for transactions can be slow in certain blockchain systems which may present a scaling issue with applications that intend to handle a high number of transactions per second.
 
-![Figure 2: Blockchain Usage Decision Tree](images/image 20230105170926.png)
+![Figure 2: Blockchain Usage Decision Tree](images/image_20230105170926.png)
 
 *Figure 2: Blockchain Usage Decision Tree*
   
